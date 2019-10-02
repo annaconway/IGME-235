@@ -1,17 +1,17 @@
-# H1 Your Game Name
-## H2 I. High Concept
+# Your Game Name
+## I. High Concept
 A survival mode styled game where you fight waves of enemies as the "light" to purge the "darkness." 
 
-## H2 II. Genre
+## II. Genre
 The genre of this game is predominantly musou with survival and fighting game qualities. It lacks the complexity and combo accumulation of most fighting games and has a stronger focus on surviving large hordes of enemies. 
 
 ## H2 III. Platform
 This game is a web browser game so it will be desktop only.
 
-## H2 IV. Story
+## IV. Story
 You are the largest and longest living star in the universe and you watch sadly as your sisters are dimmed and veiled from your view. The void is taking over and it is your job to bring back light in the suffocating darkness. Fight as the last living light against hordes of darkness. Defend everything as you know it and shine your light to save the universe.
 
-## H2 V. Aesthetics
+## V. Aesthetics
 The game will be dark with glowy styled attacks. The artstyle will be 8-bit and rpg-like. Music will be soft 8-bit that envoke the kind of gentle sound of space. Fights will be more upbeat and sci-fi like. The UI will have sounds when buttons are clicked. Everytime you use an ability a twinkly sound will activate to let you know it was clicked. The main character is inspired by Chang'e from Smite so a lot of the aesthetics will be remniscent of her.
 
 ## H2 VI. Gameplay
@@ -21,13 +21,13 @@ A keyboard and mouse would be needed to play this game on desktop. In order to b
 
 There will be multiple skills. A basic magical attack, a stun attack, an AOE attack for larger enemies, and a more random one with light "raining" down to do minor damage to a group.   
 
-## H2 VII. Screenshots
+## VII. Screenshots
 Have at least 2 mockup screens of the game. They can be hand drawn and scanned, Photoshop mockups, or scanned doodles - use <img> tags. You can either display the images in this section, or somewhere else on the page.
 
-## H2 VIII. Other
+## VIII. Other
 Something else you'd like to say that doesn't fit elsewhere. Also discuss any external libraries you might use. All libraries are subject to Professor approval.
 
-## H2 IX. About the developer(s)
+## IX. About the developer(s)
 Your name/major/minor/year your, skill set and interests (ex. programming, game physics, graphic design, Maya, Photoshop, Illustrator, music, game sound, ...).
 
 Instructions
