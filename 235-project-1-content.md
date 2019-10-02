@@ -1,11 +1,11 @@
-# Your Game Name
+# Toska: A Game in Space
 ## I. High Concept
 A survival mode styled game where you fight waves of enemies as the "light" to purge the "darkness." 
 
 ## II. Genre
 The genre of this game is predominantly musou with survival and fighting game qualities. It lacks the complexity and combo accumulation of most fighting games and has a stronger focus on surviving large hordes of enemies. 
 
-## H2 III. Platform
+## III. Platform
 This game is a web browser game so it will be desktop only.
 
 ## IV. Story
@@ -14,7 +14,7 @@ You are the largest and longest living star in the universe and you watch sadly 
 ## V. Aesthetics
 The game will be dark with glowy styled attacks. The artstyle will be 8-bit and rpg-like. Music will be soft 8-bit that envoke the kind of gentle sound of space. Fights will be more upbeat and sci-fi like. The UI will have sounds when buttons are clicked. Everytime you use an ability a twinkly sound will activate to let you know it was clicked. The main character is inspired by Chang'e from Smite so a lot of the aesthetics will be remniscent of her.
 
-## H2 VI. Gameplay
+## VI. Gameplay
 When players complete a certain number of levels or kill enough enemies, they will receive new skills and buffs that make the subsequent waves easier. This falls in line with the Cascading Information theory and using achievements to keep the player motivated and wondering what comes next. Implementing avoidance in future levels to make the game a little more complicated would be another ideal mechanic. Perhaps during a "milestone" level, another goal to keep up a certain "light" level by using skills would add to the difficulty. 
 
 A keyboard and mouse would be needed to play this game on desktop. In order to beat this game, the player will need to maintain crowd control near the end by using the right abilities in the right situations. It won't be too complicated, but enemy numbers may deploy in large numbers during certain instances so the player must be able to manage this. 
