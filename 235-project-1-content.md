@@ -22,7 +22,9 @@ A keyboard and mouse would be needed to play this game on desktop. In order to b
 There will be multiple skills. A basic magical attack, a stun attack, an AOE attack for larger enemies, and a more random one with light "raining" down to do minor damage to a group.
 
 ## VII. Screenshots
+![alt text](https://github.com/annaconway/IGME-235/blob/master/abilityCA.PNG "Mock-Up of the abilities that will be created in game.")
 
+![alt text](https://github.com/annaconway/IGME-235/blob/master/UICA.PNG "Mock-Up of the UI in game.")
 
 ## VIII. Other
 Nothing is applicable in this category.
